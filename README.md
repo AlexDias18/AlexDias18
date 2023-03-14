@@ -22,4 +22,4 @@
          
          
         
-![Snake animation](https://github.com/AlexDias18/AlexDias18/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlexDias18/AlexDias18.git/output/github-contribution-grid-snake.svg)
