@@ -1,7 +1,7 @@
 <H1> 🐱‍💻Olá Eu Sou Alex Dias 🐱‍💻<br><br>🤖Aqui vou compartailhar minhas linhas de codigos🤖<h1>
    <div>
        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AlexDias18&show_icons=true&theme=tokyonight"/>
-       <img width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaela&layout=compact&show_icons=true&theme=tokyonight"/>
+       <img width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDias18layout=compact&show_icons=true&theme=tokyonight"/>
    </div>
 <h2>
 🙋🏼‍♂️ Atualmente estou trabalhando como estagiario em Analise e Desenvolvimento de Sistemas<Br><br>
