@@ -20,6 +20,14 @@
       <img align "center" alt="Alex-node" height="40 width="50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">                              <img align "center" alt="Alex-vscode" height="40 width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">                                
         </div>
          
-         
-        
-![Snake animation](https://github.com/AlexDias18/AlexDias18.git/output/github-contribution-grid-snake.svg)
+ <div>
+  <br>
+  <a href = "mailto:alexnascimentodias2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alex-dias-24b06422b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+  
+  <div align="center">
+  
+  ![Snake animation](https://github.com/patrickfer/patrickfer/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
