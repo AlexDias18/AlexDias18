@@ -19,4 +19,7 @@
       <img align "center" alt="Alex-react" height="40 width="50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rect/rect-plain.svg">
       <img align "center" alt="Alex-node" height="40 width="50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">                              <img align "center" alt="Alex-vscode" height="40 width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">                                
         </div>
+         
+         
         
+![Snake animation](https://github.com/AlexDias18/thyagofranca/blob/output/github-contribution-grid-snake.svg)
