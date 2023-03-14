@@ -3,6 +3,7 @@
        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AlexDias18&show_icons=true&theme=tokyonight"/>
        <img width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDias18layout=compact&show_icons=true&theme=tokyonight"/>
    </div>
+   <br><Br>
 <h2>
 🙋🏼‍♂️ Atualmente estou trabalhando como estagiario em Analise e Desenvolvimento de Sistemas<Br><br>
 👾 C# , Javascript, Typescript, Angular<Br><br>
