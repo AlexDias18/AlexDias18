@@ -1,12 +1,13 @@
-<H1> 🐱‍💻Olá Eu Sou Alex Dias 🐱‍💻<br><br>🤖Aqui vou compartailhar minhas linhas de codigos🤖<h1>
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexDias18&color=blue" alt="Profile views" /></p>
+<H1> 🐱‍💻Olá Eu Sou<a href="https://www.linkedin.com/in/alex-dias-24b06422b/"><i>Alex Dias</i></a> 🐱‍💻<br><br> 🤖Aqui nessa plataforma vou compartailhar minhas linhas de codigos🤖<h1>
+
    <div>
+       <a href="https://github.com/AlexDias18">
        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AlexDias18&show_icons=true&theme=tokyonight"/>
-       <img width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDias18layout=compact&show_icons=true&theme=tokyonight"/>
+       <img width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDias18&layout=compact&show_icons=true&theme=tokyonight"/>
    </div>
    <br><Br>
 <h2>
-🙋🏼‍♂️ Atualmente estou trabalhando como estagiario em Analise e Desenvolvimento de Sistemas<Br><br>
+🙋🏼‍♂️ Atualmente sou estagiario em Analise e Desenvolvimento de Sistemas<Br><br>
 👾 C# , Javascript, Typescript, Angular<Br><br>
 
   </h2>
@@ -29,6 +30,6 @@
   
   <div align="center">
   
-  ![Snake animation](https://github.com/AlexDias18/AlexDias18/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/AlexDias18/AlexDias18/blob/output/github-contribution-grid-snake.svg)
   
 </div>
