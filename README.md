@@ -1,4 +1,4 @@
-<H1> 🐱‍💻Olá Eu Sou<a href="https://www.linkedin.com/in/alex-dias-24b06422b/"><i>Alex Dias</i></a> 🐱‍💻<br><br> 🤖Aqui nessa plataforma vou compartailhar minhas linhas de codigos🤖<h1>
+<H1> 🐱‍💻Olá Eu Sou<a href="https://www.linkedin.com/in/alex-dias-24b06422b/"><i> Alex Dias</i></a> 🐱‍💻<br><br> 🤖Aqui nessa plataforma vou compartailhar minhas linhas de codigos🤖<h1>
 
    <div>
        <a href="https://github.com/AlexDias18">
